@@ -1,0 +1,5 @@
+C:/Users/renat/OneDrive/Documentos/LAB03/LAB03/STMBase/CMakeFiles/STMBase.dir
+C:/Users/renat/OneDrive/Documentos/LAB03/LAB03/STMBase/CMakeFiles/edit_cache.dir
+C:/Users/renat/OneDrive/Documentos/LAB03/LAB03/STMBase/CMakeFiles/rebuild_cache.dir
+C:/Users/renat/OneDrive/Documentos/LAB03/LAB03/STMBase/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/renat/OneDrive/Documentos/LAB03/LAB03/STMBase/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
